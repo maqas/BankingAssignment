@@ -1,0 +1,14 @@
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/bin/Debug/net9.0/BankingAssignment
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/bin/Debug/net9.0/BankingAssignment.deps.json
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/bin/Debug/net9.0/BankingAssignment.runtimeconfig.json
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/bin/Debug/net9.0/BankingAssignment.dll
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/bin/Debug/net9.0/BankingAssignment.pdb
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.AssemblyInfoInputs.cache
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.AssemblyInfo.cs
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.csproj.CoreCompileInputs.cache
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.dll
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/refint/BankingAssignment.dll
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.pdb
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/BankingAssignment.genruntimeconfig.cache
+/home/mx3/RiderProjects/BankingAssignment/BankingAssignment/obj/Debug/net9.0/ref/BankingAssignment.dll
